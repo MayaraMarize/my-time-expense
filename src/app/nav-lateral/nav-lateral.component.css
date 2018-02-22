@@ -1,0 +1,17 @@
+.navlateral-figure{
+    width: 40px;
+    height: 80px;
+    max-width: 100%;
+    align-content: center;
+}
+.navlateral-principal{
+    width: 30%;
+    height: 100%;
+    float: left;
+}
+.sidebar{
+    background: white;
+    width:15%;
+    float: left;
+
+}
